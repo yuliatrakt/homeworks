@@ -1,3 +1,4 @@
 # homeworks
 ## Хозяин _Юля Трактинская_
-*[почта](julia-0599@yandex.ru)
+*[почта](mailto:julia-0599@yandex.ru)
+*[Telegram] (https://t.me/juliatrakt0599)
